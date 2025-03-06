@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2011-2024 The XPerience Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Pocket Lock -->
+    <string name="pocket_lock_message_long_press">Press and hold power button to unlock</string>
+    <string name="pocket_view_title">Pocket mode is on</string>
+    <string name="pocket_view_title_cancel">Clear the highlighted top section of the device or long press power button to force quit pocket mode</string>
+
+</resources>
