@@ -62,5 +62,4 @@
     <string name="screenshot_delete_label">Eliminar</string>
     <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
     <string name="screenshot_delete_description">Eliminar captura de pantalla</string>
-    <!-- Alert slide extras -->
 </resources>
