@@ -102,4 +102,5 @@
     <string name="global_action_restart_fastboot_progress">Újraindítás Fastboot-módba\u2026</string>
     <!-- Label for current user in power menu options dialog -->
     <string name="global_action_current_user">Jelenlegi</string>
+    <string name="global_action_users">Felhasználók</string>
 </resources>
