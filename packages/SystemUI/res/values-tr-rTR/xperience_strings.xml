@@ -60,7 +60,11 @@
     <string name="screenrecord_longer_timeout_switch_label">Daha büyük dosya boyutu sınırı</string>
     <string name="screenrecord_longer_timeout_switch_summary">Kayıt boyutunu 15 GB ile sınırlayın</string>
     <string name="screenrecord_skip_time_label">Zamanlayıcıyı atla</string>
+    <string name="screenrecord_skip_time_summary">3 saniyelik beklemeyi kaldırın</string>
+    <string name="screenrecord_hevc_switch_label">HEVC kodlayıcı</string>
+    <string name="screenrecord_hevc_switch_summary">Daha verimli HEVC kodlayıcıyı kullanın</string>
     <!-- WiFi standard numbering on statusbar -->
+    <string name="status_bar_wifi_standard">Wi-Fi standart numarası</string>
     <!-- Data usage info in QS footer -->
     <string name="usage_data">bugün kullanılan</string>
     <string name="usage_data_default_suffix">Veri</string>
@@ -70,19 +74,32 @@
     <!-- Name of the roaming status bar icon. -->
     <string name="status_bar_roaming">Dolaşım göstergesi</string>
     <!-- Name of the HD calling status bar icon. -->
+    <string name="status_bar_hd_calling">HD arama (VoLTE/VoNR)</string>
     <!-- Name of the VoWiFi status bar icon. -->
+    <string name="status_bar_vowifi">Wi-Fi arama (VoWiFi)</string>
     <!-- Label for UI element which allows to use lens on screenshot [CHAR LIMIT=30] -->
     <!-- Advanced restart menu -->
     <!-- Button to indicate more options -->
+    <string name="global_action_restart_more">Yeniden başlatılıyor\u2026</string>
     <!-- Button to restart the device, within the Restart Options dialog -->
+    <string name="global_action_restart_system">Sistem</string>
     <!-- Button to restart the device into recovery mode, within the Restart Options dialog -->
     <!-- Button to restart the device into bootloader mode, within the Restart Options dialog -->
     <!-- Button to restart the device into download mode, within the Restart Options dialog -->
+    <string name="global_action_restart_download">İndir</string>
     <!-- Button to restart the device into fastboot mode, within the Restart Options dialog -->
+    <string name="global_action_restart_fastboot">Fastbootd</string>
     <!-- Restart progress dialog. This is shown if the user chooses to restart the device. -->
+    <string name="global_action_restart_progress">Yeniden başlatılıyor\u2026</string>
     <!-- Restart to recovery mode progress dialog. This is shown if the user chooses to restart the device. -->
+    <string name="global_action_restart_recovery_progress">Kurtarma modunda yeniden başlatılıyor\u2026</string>
     <!-- Restart to bootloader mode progress dialog. This is shown if the user chooses to restart the device. -->
+    <string name="global_action_restart_bootloader_progress">Ön yükleyici modunda yeniden başlatılıyor\u2026</string>
     <!-- Restart to download mode progress dialog. This is shown if the user chooses to restart the device. -->
+    <string name="global_action_restart_download_progress">İndirme modunda başlatılıyor\u2026</string>
     <!-- Restart to fastboot mode progress dialog. This is shown if the user chooses to restart the device. -->
+    <string name="global_action_restart_fastboot_progress">Fastboot modunda başlatılıyor\u2026</string>
     <!-- Label for current user in power menu options dialog -->
+    <string name="global_action_current_user">Şimdiki</string>
+    <string name="global_action_users">Kullanıcılar</string>
 </resources>
