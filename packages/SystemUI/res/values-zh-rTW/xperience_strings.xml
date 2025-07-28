@@ -38,4 +38,7 @@
     <!-- Status bar - icons -->
     <string name="status_bar_icons_title">狀態欄圖示</string>
     <!-- AI Assistant affordance [CHAR LIMIT=32] -->
+    <!-- Refresh rate QS tile -->
+    <!-- Status bar network traffic monitor strings -->
+    <!-- Alert slide extras -->
 </resources>
