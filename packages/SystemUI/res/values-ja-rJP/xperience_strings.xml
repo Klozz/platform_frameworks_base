@@ -31,4 +31,19 @@
     <!-- Refresh rate QS tile -->
     <!-- Status bar network traffic monitor strings -->
     <!-- Alert slide extras -->
+    <!-- Screen record -->
+    <!-- Text while recognizing face -->
+    <!-- CPUInfo tile -->
+    <!-- Compass QS Tile -->
+    <string name="quick_settings_compass_label">コンパス</string>
+    <string name="quick_settings_compass_value"><xliff:g id="degrees">%1$.0f</xliff:g>\u00b0 <xliff:g id="direction">%2$s</xliff:g></string>
+    <string name="quick_settings_compass_init">初期化中...</string>
+    <string name="quick_settings_compass_N">北</string>
+    <string name="quick_settings_compass_NE">北東</string>
+    <string name="quick_settings_compass_E">東</string>
+    <string name="quick_settings_compass_SE">南東</string>
+    <string name="quick_settings_compass_S">南</string>
+    <string name="quick_settings_compass_SW">南西</string>
+    <string name="quick_settings_compass_W">西</string>
+    <string name="quick_settings_compass_NW">北西</string>
 </resources>
