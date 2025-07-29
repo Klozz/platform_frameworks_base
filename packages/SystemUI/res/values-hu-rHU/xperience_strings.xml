@@ -55,4 +55,28 @@
     <string name="tristate_rotation_0">Álló (Portré)</string>
     <string name="tristate_rotation_90">Fekvő (90°)</string>
     <string name="tristate_rotation_270">Fekvő (270°)</string>
+    <!-- Screen record -->
+    <string name="screenrecord_lowquality_label">Gyengébb minőség</string>
+    <string name="screenrecord_lowquality_summary">...a kisebb fájlméretért</string>
+    <string name="screenrecord_longer_timeout_switch_label">Nagyobb felső határ</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Max.15GB felvételi fájlméret</string>
+    <string name="screenrecord_skip_time_label">Nincs késleltetés</string>
+    <string name="screenrecord_skip_time_summary">Eltávolítja a 3 másodperces várakozást</string>
+    <string name="screenrecord_hevc_switch_label">HEVC-kódolás</string>
+    <string name="screenrecord_hevc_switch_summary">Használja a hatékonyabb HEVC-kódolót</string>
+    <!-- Text while recognizing face -->
+    <string name="face_unlock_recognizing">Arcfelismerés...</string>
+    <!-- CPUInfo tile -->
+    <!-- Compass QS Tile -->
+    <string name="quick_settings_compass_label">Iránytű</string>
+    <string name="quick_settings_compass_value"><xliff:g id="degrees">%1$.0f</xliff:g>\u00b0<xliff:g id="direction">%2$s</xliff:g></string>
+    <string name="quick_settings_compass_init">Előkészítés\u2026</string>
+    <string name="quick_settings_compass_N">É</string>
+    <string name="quick_settings_compass_NE">ÉK</string>
+    <string name="quick_settings_compass_E">K</string>
+    <string name="quick_settings_compass_SE">DK</string>
+    <string name="quick_settings_compass_S">D</string>
+    <string name="quick_settings_compass_SW">DNy</string>
+    <string name="quick_settings_compass_W">Ny</string>
+    <string name="quick_settings_compass_NW">ÉNy</string>
 </resources>
