@@ -31,4 +31,11 @@
     <!-- Refresh rate QS tile -->
     <!-- Status bar network traffic monitor strings -->
     <!-- Alert slide extras -->
+    <!-- Screen record -->
+    <!-- Text while recognizing face -->
+    <string name="face_unlock_recognizing">Đang nhận diện khuôn mặt...</string>
+    <!-- CPUInfo tile -->
+    <!-- Compass QS Tile -->
+    <string name="quick_settings_compass_label">La bàn</string>
+    <string name="quick_settings_compass_init">Đang khởi tạo\u2026</string>
 </resources>
