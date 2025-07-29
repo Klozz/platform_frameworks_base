@@ -18,4 +18,7 @@
     <!-- Launcher Restart -->
     <string name="launcher_restart_title">Es necesario reiniciar el lanzador del sistema</string>
     <string name="launcher_restart_message">Para aplicar los cambios es necesario reiniciar el lanzador del sistema. ¿Quieres reiniciar ahora?</string>
+    <!-- Pocket Lock -->
+    <!-- Lock gesture -->
+    <!-- GameSpace -->
 </resources>
