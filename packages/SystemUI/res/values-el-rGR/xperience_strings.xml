@@ -28,4 +28,9 @@
     <!-- Refresh rate QS tile -->
     <!-- Status bar network traffic monitor strings -->
     <!-- Alert slide extras -->
+    <!-- Screen record -->
+    <!-- Text while recognizing face -->
+    <string name="face_unlock_recognizing">Αναγνώριση προσώπου...</string>
+    <!-- CPUInfo tile -->
+    <!-- Compass QS Tile -->
 </resources>
