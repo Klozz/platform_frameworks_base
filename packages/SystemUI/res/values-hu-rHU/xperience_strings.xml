@@ -79,4 +79,9 @@
     <string name="quick_settings_compass_SW">DNy</string>
     <string name="quick_settings_compass_W">Ny</string>
     <string name="quick_settings_compass_NW">ÉNy</string>
+    <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
+    <string name="screenshot_delete_label">Törlés</string>
+    <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
+    <string name="screenshot_delete_description">Képernyőkép-törlés</string>
+    <!-- PowerShare QS tile -->
 </resources>
