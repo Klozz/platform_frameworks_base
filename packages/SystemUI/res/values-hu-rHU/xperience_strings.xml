@@ -5,15 +5,32 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Indication on the keyguard that is shown when the device is charging with a dash charger. Should match keyguard_plugged_in_dash_charging [CHAR LIMIT=40]-->
+    <string name="keyguard_indication_dash_charging_time"><xliff:g id="percentage">%2$s</xliff:g> • Dash töltés (<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%1$s</xliff:g> a teljes feltöltésig)</string>
+    <string name="keyguard_plugged_in_dash_charging"><xliff:g id="percentage">%s</xliff:g> • Dash töltés</string>
     <!-- Indication on the keyguard that is shown when the device is charging with a warp charger. Should match keyguard_plugged_in_warp_charging [CHAR LIMIT=40]-->
+    <string name="keyguard_indication_warp_charging_time"><xliff:g id="percentage">%2$s</xliff:g> • Lánctöltés (<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%1$s</xliff:g> a teljes feltöltésig)</string>
     <string name="keyguard_plugged_in_warp_charging"><xliff:g id="percentage">%s</xliff:g> • Warp töltés</string>
     <!-- Indication on the keyguard that is shown when the device is charging with a VOOC charger. Should match keyguard_plugged_in_vooc_charging [CHAR LIMIT=40]-->
+    <string name="keyguard_indication_vooc_charging_time"><xliff:g id="percentage">%2$s</xliff:g> • VOOC Töltés (<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%1$s</xliff:g> a teljes feltöltésig)</string>
     <string name="keyguard_plugged_in_vooc_charging"><xliff:g id="percentage">%s</xliff:g> • VOOC Töltés</string>
     <!-- Indication on the keyguard that is shown when the device is charging with a turbo power charger. Should match keyguard_plugged_in_turbo_charging [CHAR LIMIT=40]-->
+    <string name="keyguard_indication_turbo_power_time"><xliff:g id="percentage">%2$s</xliff:g> • Turbó töltés (<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%1$s</xliff:g> a teljes feltöltésig)</string>
     <string name="keyguard_plugged_in_turbo_charging"><xliff:g id="percentage">%s</xliff:g> • Turbótöltés</string>
     <!-- Name of the nfc status bar icon. -->
     <!-- Accessibility label for nfc icon (not shown on screen) [CHAR LIMIT=NONE] -->
     <!-- On The Go -->
+    <string name="onthego_notif_ticker">A \'Menet közben mód\' aktiválva</string>
+    <string name="onthego_notif_title">A \'Menet közben mód\' aktív</string>
+    <string name="onthego_notif_stop">Leállítás</string>
+    <string name="onthego_notif_options">Lehetőségek</string>
+    <string name="onthego_notif_error">Nem lehet elindítani a \'Menet közben mód\'-ot</string>
+    <string name="onthego_notif_restart">A \'Menet közben mód\' újraindítása</string>
+    <string name="onthego_notif_camera_changed">Kameramód megváltoztatva</string>
+    <string name="onthego_transparency">Átlátszóság</string>
+    <string name="onthego_front_camera">Az előlapi kamera használata</string>
+    <string name="onthego_service_toggle">A szolgáltatás automatikus újraindítása</string>
+    <string name="onthego_channel_name">Elsődleges</string>
+    <string name="global_action_onthego">Menet közben (On-The-Go)</string>
     <!-- Advanced restart menu -->
     <!-- Button to indicate more options -->
     <string name="global_action_restart_more">Újraindítás\u2026</string>
@@ -38,7 +55,10 @@
     <!-- Status bar - icons -->
     <string name="status_bar_icons_title">Állapotsori ikonok</string>
     <!-- AI Assistant affordance [CHAR LIMIT=32] -->
+    <string name="accessibility_assistant_button">AI-asszisztens</string>
     <!-- Refresh rate QS tile -->
+    <string name="refresh_rate_tile_label">Frissítési gyakoriság</string>
+    <string name="refresh_rate_unknown">Ismeretlen</string>
     <!-- Status bar network traffic monitor strings -->
     <!-- Alert slide extras -->
     <string name="volume_ringer_priority_only">Fontos</string>
@@ -67,6 +87,7 @@
     <!-- Text while recognizing face -->
     <string name="face_unlock_recognizing">Arcfelismerés...</string>
     <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">CPU-adatok</string>
     <!-- Compass QS Tile -->
     <string name="quick_settings_compass_label">Iránytű</string>
     <string name="quick_settings_compass_value"><xliff:g id="degrees">%1$.0f</xliff:g>\u00b0<xliff:g id="direction">%2$s</xliff:g></string>
@@ -84,4 +105,8 @@
     <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
     <string name="screenshot_delete_description">Képernyőkép-törlés</string>
     <!-- PowerShare QS tile -->
+    <string name="quick_settings_powershare_label">Vezetéknélküli PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">PowerShare (vezetéknélküli) ki\nAkkukímélő</string>
+    <string name="quick_settings_powershare_off_low_battery_label">PowerShare (vezetéknélküli) ki\nAlacsony akkuszint</string>
+    <string name="quick_settings_powershare_enabled_label">A vezetéknélküli PowerShare engedélyezve van</string>
 </resources>
