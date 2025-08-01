@@ -32,4 +32,7 @@
     <!-- Text while recognizing face -->
     <!-- CPUInfo tile -->
     <!-- Compass QS Tile -->
+    <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
+    <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
+    <!-- PowerShare QS tile -->
 </resources>
