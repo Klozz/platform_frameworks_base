@@ -46,4 +46,9 @@
     <string name="quick_settings_compass_SW">南西</string>
     <string name="quick_settings_compass_W">西</string>
     <string name="quick_settings_compass_NW">北西</string>
+    <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
+    <string name="screenshot_delete_label">削除</string>
+    <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
+    <string name="screenshot_delete_description">スクリーンショットを削除する</string>
+    <!-- PowerShare QS tile -->
 </resources>
