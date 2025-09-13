@@ -122,4 +122,6 @@
     <!-- Now bar -->
     <string name="nowbar_no_media">No hay medios en reproducción</string>
     <string name="nowbar_unknown_title">Título desconocido</string>
+    <!-- Auto reboot Suggestion/Reminder -->
+    <!-- Island notification -->
 </resources>
