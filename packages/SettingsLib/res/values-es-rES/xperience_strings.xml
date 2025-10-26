@@ -22,4 +22,10 @@
     <string name="screen_zoom_summary_smallest">Diminuto</string>
     <string name="status_deep_sleep">(Sueño profundo: %1$d%2$s)</string>
     <!-- ZenMode -->
+    <string name="interruption_level_none_with_warning">Silencio total. Esto también silenciará los lectores de pantalla.</string>
+    <string name="interruption_level_priority">Solo prioridad</string>
+    <string name="interruption_level_alarms">Solo alarmas</string>
+    <string name="interruption_level_none_twoline">Silencio total</string>
+    <string name="interruption_level_priority_twoline">Solo prioridad</string>
+    <string name="interruption_level_alarms_twoline">Solo alarmas</string>
 </resources>
