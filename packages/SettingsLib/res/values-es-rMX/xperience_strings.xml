@@ -26,4 +26,6 @@
     <string name="interruption_level_priority">Solo prioridad</string>
     <string name="interruption_level_alarms">Solo alarmas</string>
     <string name="interruption_level_none_twoline">Silencio total</string>
+    <string name="interruption_level_priority_twoline">Solo prioridad</string>
+    <string name="interruption_level_alarms_twoline">Solo alarmas</string>
 </resources>
